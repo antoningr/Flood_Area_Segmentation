@@ -1,5 +1,3 @@
-📄 GitHub Documentation
-
 # 🌊 Flood Area Segmentation with U-Net (Keras)
 This project focuses on segmenting flooded areas from satellite images using a **U-Net** deep learning model implemented with **Keras** and **TensorFlow**. The goal is to perform pixel-wise classification (semantic segmentation) to automatically identify flooded zones, which can be useful for disaster management and response.
 
