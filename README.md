@@ -27,6 +27,12 @@ path = kagglehub.dataset_download("faizalkarim/flood-area-segmentation")
 print("Path to dataset files:", path)
 ```
 
+
+## 🧠 Model Used: U-Net Architecture
+
+**U-Net** is a convolutional neural network architecture specifically designed for semantic segmentation. It was introduced in the paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) by Ronneberger et al.
+
+
 ## 📊 Features
 - ✅ U-Net architecture with customizable input size
 - 📁 Data pipeline using ImageDataGenerator
@@ -43,10 +49,6 @@ print("Path to dataset files:", path)
 
 ## 📘 Language
 - python
-
-## 🧠 Model Used
-- google/vit-base-patch16-224
-- Pretrained Vision Transformer model, fine-tuned on ImageNet-1k.
 
 ## 📄 License
 - This project is licensed under the MIT License.
