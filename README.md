@@ -46,11 +46,4 @@ print("Path to dataset files:", path)
 
 
 ## 📘 Language
-- python
-
-## 📄 License
-- This project is licensed under the MIT License.
-
-## 🙌 Credits
-- Hugging Face
-- KaggleHub
+- Python
