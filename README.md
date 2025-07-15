@@ -28,7 +28,7 @@ print("Path to dataset files:", path)
 
 ## 🧠 Model Used: U-Net Architecture
 
-**U-Net** is a convolutional neural network architecture specifically designed for semantic segmentation. It was introduced in the paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) by Ronneberger et al.
+**U-Net** is a convolutional neural network architecture specifically designed for semantic segmentation. It was introduced in the paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597).
 
 
 ## 📊 Features
